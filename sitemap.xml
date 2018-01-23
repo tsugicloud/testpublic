@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost:8888/test-cloud/public/categories/</loc>
+    <loc>https://test.tsugicloud.org/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:8888/test-cloud/public/tags/</loc>
+    <loc>https://test.tsugicloud.org/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:8888/test-cloud/public/</loc>
+    <loc>https://test.tsugicloud.org/</loc>
     <priority>0</priority>
   </url>
   
